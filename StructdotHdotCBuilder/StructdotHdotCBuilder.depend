@@ -1,0 +1,47 @@
+# depslib dependency file v1.0
+1597186648 source:d:\universidad\tools\structdothdotcbuilder\src\boolib.c
+	"../boolib.h"
+
+1589679320 d:\universidad\tools\structdothdotcbuilder\boolib.h
+
+1597261411 source:d:\universidad\tools\structdothdotcbuilder\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"steart.h"
+	"LinkedList.h"
+	"utn.h"
+
+1589118568 d:\universidad\tools\structdothdotcbuilder\steart.h
+
+1597187168 d:\universidad\tools\structdothdotcbuilder\linkedlist.h
+
+1596764672 d:\universidad\tools\structdothdotcbuilder\utn.h
+
+1597186850 source:d:\universidad\tools\structdothdotcbuilder\src\steart.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"../steart.h"
+
+1592089839 source:d:\universidad\tools\structdothdotcbuilder\src\valib.c
+	<string.h>
+	<ctype.h>
+
+1597200282 source:d:\universidad\tools\structdothdotcbuilder\src\utn.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	"../boolib.h"
+	"../valib.h"
+	"string.h"
+
+1589679032 d:\universidad\tools\structdothdotcbuilder\valib.h
+
+1597194677 source:d:\universidad\tools\structdothdotcbuilder\src\linkedlist.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"../LinkedList.h"
+
